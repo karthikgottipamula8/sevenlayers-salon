@@ -44,7 +44,7 @@ export default function Home() {
       <section id="home" className="hero">
         <div className="particles-container" id="particles"></div>
         <div className="hero-overlay"></div>
-        <img src="/assets/hero_bg.png" alt="Luxury Salon Interior" className="hero-bg" loading="lazy" />
+        <img src="/assets/images/hero_bg.png" alt="Luxury Salon Interior" className="hero-bg" loading="lazy" />
         
         <div className="container hero-content text-center">
           <h1 className="animate-up">Transform Your Style With Professional Salon Experts</h1>
@@ -100,7 +100,7 @@ export default function Home() {
             {/* Category 1 */}
             <div className="service-category glass-card animate-on-scroll">
               <div className="service-img-container">
-                <img src="/assets/service_hair.png" alt="Hair Services" loading="lazy" />
+                <img src="/assets/images/service_hair.png" alt="Hair Services" loading="lazy" />
                 <div className="service-overlay">
                   <h3>Hair Services</h3>
                 </div>
@@ -118,7 +118,7 @@ export default function Home() {
             {/* Category 2 */}
             <div className="service-category glass-card animate-on-scroll delay-1">
               <div className="service-img-container">
-                <img src="/assets/service_beauty.png" alt="Beauty Services" loading="lazy" />
+                <img src="/assets/images/service_beauty.png" alt="Beauty Services" loading="lazy" />
                 <div className="service-overlay">
                   <h3>Beauty Services</h3>
                 </div>
@@ -136,7 +136,7 @@ export default function Home() {
             {/* Category 3 */}
             <div className="service-category glass-card animate-on-scroll delay-2">
               <div className="service-img-container">
-                <img src="/assets/service_skin.png" alt="Skin Care" loading="lazy" />
+                <img src="/assets/images/service_skin.png" alt="Skin Care" loading="lazy" />
                 <div className="service-overlay">
                   <h3>Skin Care</h3>
                 </div>
@@ -152,7 +152,7 @@ export default function Home() {
             {/* Category 4 */}
             <div className="service-category glass-card animate-on-scroll">
               <div className="service-img-container">
-                <img src="/assets/service_grooming.png" alt="Men's Grooming" loading="lazy" />
+                <img src="/assets/images/service_grooming.png" alt="Men's Grooming" loading="lazy" />
                 <div className="service-overlay">
                   <h3>Men's Grooming</h3>
                 </div>
@@ -168,7 +168,7 @@ export default function Home() {
             {/* Category 5 */}
             <div className="service-category glass-card animate-on-scroll delay-1">
               <div className="service-img-container">
-                <img src="/assets/service_hair.png" alt="Kids Styling" loading="lazy" style={{ filter: 'hue-rotate(45deg)' }} />
+                <img src="/assets/images/service_hair.png" alt="Kids Styling" loading="lazy" style={{ filter: 'hue-rotate(45deg)' }} />
                 <div className="service-overlay">
                   <h3>Kids Styling</h3>
                 </div>
@@ -182,7 +182,7 @@ export default function Home() {
             {/* Category 6 */}
             <div className="service-category glass-card animate-on-scroll delay-2">
               <div className="service-img-container">
-                <img src="/assets/hero_bg.png" alt="Training Academy" loading="lazy" />
+                <img src="/assets/images/hero_bg.png" alt="Training Academy" loading="lazy" />
                 <div className="service-overlay">
                   <h3>Training Academy</h3>
                 </div>
@@ -208,27 +208,27 @@ export default function Home() {
           
           <div className="masonry-grid">
             <div className="masonry-item animate-on-scroll">
-              <img src="/assets/service_hair.png" alt="Hair Transformation" loading="lazy" />
+              <img src="/assets/images/service_hair.png" alt="Hair Transformation" loading="lazy" />
               <div className="item-overlay"><span>Hair Styling</span></div>
             </div>
             <div className="masonry-item animate-on-scroll">
-              <img src="/assets/service_beauty.png" alt="Bridal Makeup" loading="lazy" />
+              <img src="/assets/images/service_beauty.png" alt="Bridal Makeup" loading="lazy" />
               <div className="item-overlay"><span>Bridal Makeup</span></div>
             </div>
             <div className="masonry-item animate-on-scroll">
-              <img src="/assets/service_skin.png" alt="Skin Care" loading="lazy" />
+              <img src="/assets/images/service_skin.png" alt="Skin Care" loading="lazy" />
               <div className="item-overlay"><span>Skin Care</span></div>
             </div>
             <div className="masonry-item animate-on-scroll">
-              <img src="/assets/service_grooming.png" alt="Grooming" loading="lazy" />
+              <img src="/assets/images/service_grooming.png" alt="Grooming" loading="lazy" />
               <div className="item-overlay"><span>Grooming</span></div>
             </div>
             <div className="masonry-item animate-on-scroll">
-              <img src="/assets/hero_bg.png" alt="Training" loading="lazy" />
+              <img src="/assets/images/hero_bg.png" alt="Training" loading="lazy" />
               <div className="item-overlay"><span>Training Sessions</span></div>
             </div>
             <div className="masonry-item animate-on-scroll">
-              <img src="/assets/service_hair.png" alt="Hair Coloring" loading="lazy" style={{ filter: 'saturate(1.5)' }} />
+              <img src="/assets/images/service_hair.png" alt="Hair Coloring" loading="lazy" style={{ filter: 'saturate(1.5)' }} />
               <div className="item-overlay"><span>Coloring</span></div>
             </div>
           </div>
@@ -253,7 +253,7 @@ export default function Home() {
             </div>
             <div className="academy-image animate-on-scroll delay-1">
               <div className="image-wrapper glass-card">
-                <img src="/assets/hero_bg.png" alt="Training Academy Session" loading="lazy" />
+                <img src="/assets/images/hero_bg.png" alt="Training Academy Session" loading="lazy" />
                 <div className="floating-badge">
                   <span className="number">10+</span>
                   <span className="text">Years<br/>Experience</span>
